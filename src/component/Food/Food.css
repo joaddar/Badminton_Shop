@@ -1,0 +1,21 @@
+.food{
+    height: 400px;
+    width: 350px;
+    border: 1px solid orange;
+    border-radius: 20px;
+    background-color: rgb(255, 228, 178);
+}
+.food button{
+    color: white;
+    font-size: large;
+    width: 100%;
+    border-radius: 20px;
+    background-color: chocolate;
+}
+.food button:hover{
+    background-color: orangered;
+    color: blue;
+    height: 50px;
+    width: 350px;
+    font-size: xx-large;
+}
